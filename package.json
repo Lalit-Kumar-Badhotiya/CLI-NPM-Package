@@ -1,0 +1,14 @@
+{
+  "name": "lalitdev",
+  "version": "1.0.0",
+  "description": "A small fun project to print my personal details in CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Lalit Kumar Badhotiya",
+  "license": "ISC"
+}
