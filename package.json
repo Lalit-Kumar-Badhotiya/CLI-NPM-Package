@@ -1,14 +1,32 @@
 {
   "name": "lalitdev",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "type": "module",
   "description": "A small fun project to print my personal details in CLI",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lalitdev": "./index.js",
+    "get-set-node-oss": "./index.js"
   },
   "keywords": [
     "CLI"
   ],
   "author": "Lalit Kumar Badhotiya",
   "license": "ISC"
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nanospinner": "^1.1.0",
+    "nodemon": "^3.1.0",
+    "terminal-link": "^3.0.0"
+  }
 }
+  
+  
+  
+  
+  
+  
