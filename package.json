@@ -9,14 +9,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "lalitdev": "./index.js",
-    "get-set-node-oss": "./index.js"
-  },
+  "lalitdev": "./index.js"
+},
+
   "keywords": [
     "CLI"
   ],
   "author": "Lalit Kumar Badhotiya",
-  "license": "ISC"
+  "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
     "nanospinner": "^1.1.0",
