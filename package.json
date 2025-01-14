@@ -1,6 +1,6 @@
 {
   "name": "lalitdev",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "description": "A small fun project to print my personal details in CLI",
   "main": "index.js",
