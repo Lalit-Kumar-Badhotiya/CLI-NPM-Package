@@ -60,7 +60,7 @@ async function main(){
 
     console.log()
     
-    const githubLink = link('btw its awesome -> ','https://github.com/Lalit-Kumar-Badhotiya');
+    const githubLink = link('btw its awesome -> ','https://github.com/Lalit-Kumar-Badhotiya'.trim());
     const websiteLInk = link('Coolest thing -> ','comming_soon');
     console.log(`NAME    `.green + ' - ' + 'Lalit Kumar Badhotiya'.cyan);
     console.log(`STATUS  `.green + ' - ' + 'Student'.cyan);
