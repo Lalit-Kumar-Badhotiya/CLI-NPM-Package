@@ -62,10 +62,10 @@ async function main(){
     
 const cleanURL = (url) => url.replace(/[\u200B-\u200D\uFEFF]/g, '');
 
-const githubURL = cleanURL("https://github.com/Lalit-Kumar-Badhotiya");
+const githubURLNew = cleanURL("https://github.com/Lalit-Kumar-Badhotiya");
 const websiteURL = cleanURL('coming_soon');
 
-const githubLink = link('btw its awesome -> ', githubURL);
+const githubLink = link('btw its awesome -> ', githubURLNew);
 const websiteLink = link('Coolest thing -> ', websiteURL);
 
     console.log(`NAME    `.green + ' - ' + 'Lalit Kumar Badhotiya'.cyan);
