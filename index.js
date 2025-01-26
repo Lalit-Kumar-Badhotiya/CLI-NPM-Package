@@ -80,7 +80,7 @@ printSkill(['Java', 'C', 'Python', 'TypeScript', 'JavaScript'] , 'LANGUAGES   ')
 //printSkill(['React', 'NextJs', 'SpringBoot'] , 'FRAMEWORKS  ');
 //printSkill(['Express', 'Nodejs', 'WebSocket' , 'Prisma' , 'Redis' ] , 'TECHNOLOGIES');
 //printSkill(['MongoDb', 'PostgresSQL', 'SQL' ] , 'DATABASES   ');
-//printSkill(['Docker', 'Kubernetes', 'Github Actions', 'AWS' , 'AZURE' ] , 'DEVOPS      ');
+printSkill(['Docker', 'Kubernetes', 'Github Actions', 'AWS' , 'AZURE' ] , 'DEVOPS      ');
 printSkill(['GIT', 'Github' ] , 'Tools       ');
 
 console.log(`
