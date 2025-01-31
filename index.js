@@ -12,6 +12,7 @@ function shuffle(array) {
     return array;
 }
 
+
 function printSkill(languages , header) {
     const availableColors = shuffle(['yellow', 'red', 'blue', 'magenta']);
 
