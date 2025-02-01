@@ -40,7 +40,7 @@ async function main(){
 ██║░░██║██║  ░░░██║░░░██║░░██║███████╗██║░░██║███████╗ ██╗██╗
 ╚═╝░░╚═╝╚═╝  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝ ╚═╝╚═╝`.magenta)
     
-    
+
     console.log()
     const spinner = createSpinner('Loading Lalit\'s details').start()
     
